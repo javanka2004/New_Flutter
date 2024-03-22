@@ -1,16 +1,6 @@
-# lab2_test
+#Flutter
 
-A new Flutter project.
+Юлиана Загваздина МИБ-101
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://github.com/javanka2004/new_Flutter/assets/153029815/33264554-ff2d-4940-9ae3-660c3f45e41f)
+![2](https://github.com/javanka2004/new_Flutter/assets/153029815/36b92f0d-463d-49fb-ae2e-1adae372397e)
